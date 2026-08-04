@@ -41,7 +41,7 @@
 
 ### 项目截图（多模态模型的一次性交付效果）
 
-| 车上视角 β=0.924：隧道视觉收拢，前方蓝白亮斑 | 车上视角 β=0.726：光行差彩虹环，路面景物被扫向前方 |
+| 车上视角：隧道视觉收拢，前方蓝白亮斑 | 车上视角：光行差彩虹环，路面景物被扫向前方 |
 |---|---|
 | ![tunnel-spot](screenshots/project-tunnel-spot.png) | ![tunnel-aberration](screenshots/project-tunnel-aberration.png) |
 
@@ -57,7 +57,7 @@
 |---|---|
 | ![ref-beam](screenshots/video-03-beam-096c.png) | ![ref-terrell](screenshots/video-04-terrell-099c.png) |
 
-AI 交付的画面与参照在**物理方向**上逐项吻合：隧道视觉半角 ≈ 1/γ、前方蓝白亮斑、世界去饱和变暗、运动物体外观旋转而非压扁。
+AI 交付的画面与参照在**物理方向**上逐项吻合：隧道视觉收拢、前方蓝白亮斑、世界去饱和变暗、运动物体外观旋转而非压扁。
 
 ## 结论
 
