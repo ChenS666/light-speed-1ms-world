@@ -49,11 +49,11 @@
 
 以下为经典科普可视化中的同类画面（仅作参照，视频地址略）：
 
-| 公路第一人称场景（0.45c） | 侧面彩虹光行差（0.748c，γ=1.5） |
+| 公路第一人称场景 | 侧面彩虹光行差 |
 |---|---|
 | ![ref-road](screenshots/video-01-road-045c.png) | ![ref-dim](screenshots/video-02-dim-014c.png) |
 
-| 束射亮斑·周围黑暗（0.96c，γ=3.75） | Terrell 旋转 + 多普勒色场（0.99c，γ=7.09） |
+| 束射亮斑·周围黑暗 | Terrell 旋转 + 多普勒色场 |
 |---|---|
 | ![ref-beam](screenshots/video-03-beam-096c.png) | ![ref-terrell](screenshots/video-04-terrell-099c.png) |
 
